@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Laag_1" data-name="Laag 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 957 753">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-width: 25px;
+      }
+
+      .cls-1{
+        stroke: ##F8B2E7;
+      }
+      .cls-2{
+        stroke: #F8B2E7;
+
+
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill: none;
+      }
+
+      .cls-4 {
+        opacity: .4;
+      }
+
+      .cls-2 {
+        stroke-width: 25px;
+      }
+    </style>
+  </defs>
+  <g id="Rectangle_924" data-name="Rectangle 924" class="cls-4">
+    <rect class="cls-3" x="41" width="916" height="721" rx="20" ry="20"/>
+    <rect class="cls-2" x="46" y="5" width="906" height="711" rx="15" ry="15"/>
+  </g>
+  <g id="Rectangle_925" data-name="Rectangle 925" class="cls-4">
+    <rect class="cls-3" y="32" width="916" height="721" rx="20" ry="20"/>
+    <rect class="cls-1" x="2.5" y="34.5" width="911" height="716" rx="17.5" ry="17.5"/>
+  </g>
+</svg>

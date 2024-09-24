@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 581 321">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-width: 10px;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill: none;
+        stroke: #F8B2E7;
+      }
+
+      .cls-2 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3 {
+        stroke-width: 5px;
+      }
+    </style>
+  </defs>
+  <g id="Group_233" data-name="Group 233">
+    <g id="Rectangle_930" data-name="Rectangle 930">
+      <rect class="cls-2" x="31" y="23" width="550" height="298" rx="20" ry="20"/>
+      <rect class="cls-1" x="36" y="28" width="540" height="288" rx="15" ry="15"/>
+    </g>
+    <g id="Rectangle_931" data-name="Rectangle 931">
+      <rect class="cls-2" width="550" height="298" rx="20" ry="20"/>
+      <rect class="cls-3" x="2.5" y="2.5" width="545" height="293" rx="17.5" ry="17.5"/>
+    </g>
+  </g>
+</svg>
